@@ -1,0 +1,73 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "VGA_HSYNC",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_VSYNC",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_D[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_D[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_D[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_D[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_D[4]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_D[5]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_D[6]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_D[7]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_D[8]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_D[9]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_D[10]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_D[11]",
+					"strict" : false
+				},
+				{
+					"name" : "reset_n",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

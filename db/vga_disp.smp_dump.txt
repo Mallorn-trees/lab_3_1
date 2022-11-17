@@ -1,0 +1,7 @@
+
+State Machine - |vga_disp|ij
+Name ij.11 ij.10 ij.01 ij.00 
+ij.00 0 0 0 0 
+ij.01 0 0 1 1 
+ij.10 0 1 0 1 
+ij.11 1 0 0 1 

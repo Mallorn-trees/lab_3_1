@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Nov 15 19:43:41 2022
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : vga_disp
+Top-level Entity Name : vga_disp
+Family : Cyclone 10 LP
+Device : 10CL006YU256C8G
+Timing Models : Final
+Total logic elements : 231 / 6,272 ( 4 % )
+    Total combinational functions : 227 / 6,272 ( 4 % )
+    Dedicated logic registers : 73 / 6,272 ( 1 % )
+Total registers : 73
+Total pins : 16 / 177 ( 9 % )
+Total virtual pins : 0
+Total memory bits : 120,000 / 276,480 ( 43 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
